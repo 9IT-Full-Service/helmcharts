@@ -3,7 +3,16 @@ entries:
   nginx-ingress:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2023-01-12T11:10:33.304269195Z"
+    created: "2023-01-12T11:52:51.396440395Z"
+    description: NginxTest
+    digest: 836c843f819e65a8d9669bd08be7928f8908a5dac1e17de8d2d6490d4672ae1e
+    name: nginx-ingress
+    urls:
+    - nginx-ingress-0.3.0+24fb0cf.tgz
+    version: 0.3.0+24fb0cf
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-01-12T11:52:51.395642396Z"
     description: NginxTest
     digest: 64c3e765a631ccf36edcd773c3d422834df64c4801d7c533a40d7066db3961c6
     name: nginx-ingress
@@ -12,11 +21,11 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2023-01-12T11:10:33.303866894Z"
+    created: "2023-01-12T11:52:51.395226296Z"
     description: NginxTest
     digest: 755da18421c0d8736305c1c60c9732d5471835b258703f439c9ae2326cd96c2d
     name: nginx-ingress
     urls:
     - nginx-ingress-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-12T11:10:33.303233892Z"
+generated: "2023-01-12T11:52:51.394585496Z"
