@@ -3,11 +3,20 @@ entries:
   nginx-ingress:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2023-01-12T11:01:29.786995757Z"
+    created: "2023-01-12T11:10:33.304269195Z"
     description: NginxTest
     digest: 64c3e765a631ccf36edcd773c3d422834df64c4801d7c533a40d7066db3961c6
     name: nginx-ingress
     urls:
     - nginx-ingress-0.2.0.tgz
     version: 0.2.0
-generated: "2023-01-12T11:01:29.786105945Z"
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-01-12T11:10:33.303866894Z"
+    description: NginxTest
+    digest: 755da18421c0d8736305c1c60c9732d5471835b258703f439c9ae2326cd96c2d
+    name: nginx-ingress
+    urls:
+    - nginx-ingress-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-12T11:10:33.303233892Z"
